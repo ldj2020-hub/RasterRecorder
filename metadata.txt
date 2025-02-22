@@ -3,5 +3,5 @@ name=Raster Recorder
 description=Click to record raster values and export to TXT.
 version=1.0
 qgisMinimumVersion=3.16
-author=YourName
-email=your@email.com
+author=LIAN DONGJIE
+email=1927208337@qq.com
